@@ -1,2 +1,6 @@
-ho creato il file giulio
+<<<<<<< HEAD
+file sotto giulio
 sono in master aggiungo una modifica
+=======
+file sotto giulio
+>>>>>>> giulio
